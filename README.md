@@ -1,6 +1,6 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Maven+Pro&weight=600&pause=1000&color=1149C5D4&width=435&lines=A+Typesetter+/+Learning+Frontend" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Catamaran&weight=800&size=28&pause=1000&color=0652E4D4&width=435&lines=A+Typesetter+%2F+Learning+Frontend" alt="Typing SVG" /></a>
 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
