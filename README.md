@@ -11,7 +11,7 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
+Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform</a> for a <a href="https://daryatitova.tilda.ws/">psychologist Daria Tytova</a> 
 
 <h2>Frontend Mentor`s project</h2>
 
