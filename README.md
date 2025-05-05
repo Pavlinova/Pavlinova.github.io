@@ -29,7 +29,9 @@ Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform
         <li>
           <a href="https://frontend-mentor-pttw.vercel.app/">social-links-profile</a> 
         </li>
-      </ul>
+        <li>
+          <a href="https://frontend-mentor-ko6i.vercel.app/">recipe-page</a> 
+        </li>
    </li> 
 </ol>
 
